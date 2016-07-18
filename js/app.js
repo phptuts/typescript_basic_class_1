@@ -3,7 +3,6 @@
  */
 // let firstName : string = "Noah";
 // console.log("firstName = " + firstName);
-"use strict";
 // let isIceCreamGood: boolean = true;
 // console.log("boolean = " + isIceCreamGood);
 // let age : number = 30;
@@ -125,6 +124,6 @@
 // console.log("SubTotal: " +cart.getSubTotal());
 // console.log("Total: " +cart.getTotal());
 /// <reference path="typings/index.d.ts" />
-var _ = require('lodash');
-console.log(_.snakeCase('what is up'));
+// import * as _ from 'lodash';
+// console.log(_.snakeCase('what is up'));
 //# sourceMappingURL=app.js.map
