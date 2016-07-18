@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs", //Type of module
+        "outDir": "js", //The directory we want to output
+        "sourceMap": true, //Generates SoureMap Files
+        "watch": true
+    },
+    "files": [
+        "app.ts"
+    ]
+}
